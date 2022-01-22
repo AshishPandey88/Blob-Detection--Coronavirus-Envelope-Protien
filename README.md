@@ -1,6 +1,9 @@
 # Virus-Envelope-Protien-detection count
 Here is the application of Computer vision- Blob Detection methodology to detect and count the Envelope protiens of sample images of Human Coronavirus and mouse hepatitis virus (Image source- https://www.utmb.edu/virusimages/VI/coronaviruses and cdc)
 
+![image](https://user-images.githubusercontent.com/98158660/150642823-0a47af90-7f29-4494-9be8-35a89465a7a6.png)
+
+
 In computer vision, blob detection methods are aimed at detecting regions in a digital image that differ in properties, such as brightness or color, compared to surrounding regions (Source-Wikipedia)
 From a process perspective it involves morphological operations on the binary image to remove any noise and then the application of methodoligies like
 
